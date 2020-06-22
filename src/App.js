@@ -56,7 +56,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Multiplayer Realtime Slider Demo</h1>
+      <h1>Foobar Realtime Slider Demo</h1>
 
       <p>Open me on multiple browsers, then change a slider in one browser and watch the same one update on all the other browsers.</p>
 
